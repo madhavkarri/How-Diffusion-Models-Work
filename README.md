@@ -1,1 +1,1 @@
-# How-Diffusion-Models-Work
+# How Diffusion Models Work
